@@ -18,7 +18,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: samadhi995/jenkinspipeline:1
+      - image: samadhi995/jenkinspipeline:7
         name: demo
         resources: {}
 status: {}
